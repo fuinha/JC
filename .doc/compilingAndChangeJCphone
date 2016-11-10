@@ -1,0 +1,53 @@
+git clone https://github.com/WhisperSystems/Signal-Android.git
+cd Signal-Android
+git checkout --quiet v3.15.2
+or
+wget https://github.com/WhisperSystems/Signal-Android/archive/v3.15.2.zip
+unzip v3.15.2.zip
+
+#rename folder of
+Signal-Android to JCphone-Android
+
+#add file with sdk location local.properties in root folder
+
+#Wed Oct 12 04:49:02 PYST 2016
+ndk.dir=/home/fuinha/Android/Sdk/ndk-bundle
+sdk.dir=/home/fuinha/Android/Sdk
+
+replace all toughtcrime in androidmanifest to universalcasino
+replace for thoughtcrime universalcasino in proguard.cfg root files
+
+###future changes proguard.cfg whispersystems
+###future changes in build glade https://raw.github.com/whispersystems/ to universalcasino
+
+change logo in artwork folder logo-512.png to jcphone
+
+change /res/values/strings.xml   Signal to JCphone
+change all values-country 
+
+change icons in drawable Signal
+cahnge icon drawable filio
+
+change /res/layout thoughtcrime
+change /res/xml thoughtcrime
+
+
+change test
+change src
+
+change site
+change bitly
+change a star
+change install google
+change /whispersystems
+change whispersystems/
+change whispersystems
+
+add 2 class
+
+ad install Marcelo24+date in chyper
+
+change readme.md
+change google-playstore-strings.xml
+http://bit.ly/2dX3eE3
+
